@@ -6,3 +6,6 @@ second
 
 
 learning branching.
+
+
+adding stuff to a.txt from master branch
